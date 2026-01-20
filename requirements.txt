@@ -1,6 +1,6 @@
-streamlit
-opencv-python-headless==4.8.1.78
-numpy
+streamlit==1.32.2
+opencv-python-headless==4.8.0.76
+numpy==1.26.4
 torch==2.0.1
-ultralytics
+ultralytics==8.1.0
 gtts
